@@ -1,0 +1,4 @@
+name: PluginRawTea
+version: '${project.version}'
+main: me.pluginrawtea.pluginrawtea.PluginRawTea
+api-version: '1.20'
