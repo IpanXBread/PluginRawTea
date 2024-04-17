@@ -12,7 +12,7 @@ public final class PluginRawTea extends JavaPlugin implements Listener {
         // Plugin startup logic
         System.out.println("Ipan said hello");
         getServer().getPluginManager().registerEvents(this, this);
-        //test 22 33
+        //test 3
     }
 
     @EventHandler
